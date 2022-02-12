@@ -9,8 +9,8 @@
         <module name="JUnitLearning" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="JUnitLearning" target="1.5" />
+    <bytecodeTargetLevel target="11">
+      <module name="JUnitLearning" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
